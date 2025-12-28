@@ -1,0 +1,5 @@
+pandas
+numpy 
+seaborn 
+
+-e . # we have written this because as we know we need to run setup.py with it to install these all libraries which are writtten upward 
